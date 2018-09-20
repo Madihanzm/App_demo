@@ -16,3 +16,6 @@ Below are steps my App_demo do:
                text string.
            d. The keyboard is dismissed after the button has been 
                tapped.
+
+
+Here is the recording of my Demo App : http://recordit.co/Iw0f5tGqX3
